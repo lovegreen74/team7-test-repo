@@ -1,0 +1,7 @@
+numpy
+pandas
+seaborn
+statistical
+flake8
+pytest
+sphinx
